@@ -1,0 +1,28 @@
+a {
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    background-color: rgb(181, 144, 96);
+    color: rgb(95, 111, 12);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1.garlic, .pasta, .italian-salad {
+    background-color: rgb(137, 161, 83);
+    color:rgb(131, 102, 22);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.header-two {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.lists#title, .lists {
+    font-family: sans-serif;
+}
+
+.head-two {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
