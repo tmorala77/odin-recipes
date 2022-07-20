@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 a {
     font-size: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -25,4 +29,12 @@ h1.garlic, .pasta, .italian-salad {
 
 .head-two {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.plate, .pasta-pic, .garlic-pic, .italian-salad-pic {
+    height: 300px;
+    width: 500px;
+    padding: 20px;
+    border: 10px solid rgb(197, 211, 213);
+    margin-left: 650px;
 }
